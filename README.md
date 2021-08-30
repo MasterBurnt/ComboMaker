@@ -7,7 +7,7 @@ A Powerful Tool For Making Combo List
 Check out all possible Combo list build modes with this tool =)
 <br />
 <br />
-<img src="image.jpg" />
+<img src="photo.jpg" />
 <br /> 
 
 
