@@ -13,7 +13,7 @@ Check out all possible Combo list build modes with this tool =)
 
 ### How to Install
 
-Open the terminal and type following commands.
+Open the terminal and type following commands:
 
 <pre><code>apt-get install git</code></pre>
 
